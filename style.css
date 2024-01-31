@@ -1,0 +1,17 @@
+* {
+    transform: scale(1.0);
+    transform-origin: 0 0;
+ }
+
+.one {
+    font-size: 40px;
+}
+
+.container {
+    column-count: 2;
+    column
+  }
+
+.myimg {
+    width:50vw;
+}
